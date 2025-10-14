@@ -44,10 +44,13 @@ I enjoy working on challenging problems involving **LLMs, RAG pipelines, deep le
   <img src="https://img.shields.io/badge/CICD-%23121011?style=for-the-badge&logo=githubactions&logoColor=white"/>
 </p>
 
-### ⚙️ Backend & APIs
+### ⚙️ Backend & Databases
 <p>
   <img src="https://img.shields.io/badge/Flask-%23000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-%2300C7B7?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-%230070C0?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
 ---
