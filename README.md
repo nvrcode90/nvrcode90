@@ -25,7 +25,7 @@ I enjoy working on challenging problems involving **LLMs, RAG pipelines, deep le
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-### 🧠 AI / ML / DL
+### 🧠 Deep Learning & NLP
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
