@@ -144,18 +144,18 @@ mybutton.addEventListener("click",function(){
 });
 
 const skills = [
-  { name: "HTML & CSS", color: "#fca61f", percentage: 95 },
+  { name: "Python", color: "#fca61f", percentage: 95 },
   { name: "JavaScript", color: "#6f34fe", percentage: 90 },
-  { name: "ReactJS", color: "#3f396d", percentage: 85 },
-  { name: "Node.js", color: "#20c997", percentage: 80 },
-  { name: "Python", color: "#092e20", percentage: 82 },
-  { name: "FastAPI", color: "#009688", percentage: 80 },
-  { name: "TensorFlow", color: "#ff6f00", percentage: 75 },
-  { name: "PyTorch", color: "#e91e63", percentage: 78 },
+  { name: "Tensorflow", color: "#3f396d", percentage: 85 },
+  { name: "Pytorch", color: "#20c997", percentage: 80 },
+  { name: "ReactJS", color: "#092e20", percentage: 82 },
+  { name: "NextJS", color: "#009688", percentage: 80 },
+  { name: "FastAPI", color: "#ff6f00", percentage: 75 },
+  { name: "Nodejs", color: "#e91e63", percentage: 80 },
   { name: "AWS", color: "#ff9900", percentage: 85 },
-  { name: "Docker", color: "#0db7ed", percentage: 88 },
-  { name: "Kubernetes", color: "#326ce5", percentage: 84 },
-  { name: "Git", color: "#f1502f", percentage: 90 }
+  { name: "Docker", color: "#0db7ed", percentage: 80 },
+  { name: "Kubernetes", color: "#326ce5", percentage: 70 },
+  { name: "Git", color: "#f1502f", percentage: 80 }
 ];
 
 let currentIndex = 0;
